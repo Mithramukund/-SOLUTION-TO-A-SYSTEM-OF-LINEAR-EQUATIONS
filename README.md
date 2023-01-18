@@ -29,7 +29,8 @@ X = np.linalg.inv(A).dot(B)
 print(X)
 ```
 ## Output:
-![output](m1.png)
+![m1](https://user-images.githubusercontent.com/121608770/213072158-18ed5016-9029-4af0-9a6d-fe452bd41efe.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
